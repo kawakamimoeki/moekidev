@@ -1,12 +1,12 @@
 ```ruby
 Moeki.dev
-# => This is my domain.
+# => "This is my domain".
 
 Moeki.fullname
-# => Moeki Kawakami
+# => "Moeki Kawakami"
 
 Moeki.org
-# => Bit Journey, Inc.
+# => "Bit Journey, Inc".
 
 Moeki.methods
 # => [:ruby, :typescript, :open_ai, :vector_db, :react, :rails, :saxophone]
