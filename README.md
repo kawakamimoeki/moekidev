@@ -9,5 +9,5 @@ Moeki.org
 # => "Bit Journey, Inc."
 
 Moeki.methods
-# => ["Ruby", "Typescript", "OpenAI", "Vector DB", "React", "Ruby on Rails"]
+# => [:ruby, :typescript, :open_ai, :vector_db, :react, :rails, :saxophone]
 ```
